@@ -18,8 +18,8 @@
   transform: translate(-50%, -50%);
 }
 #logo path:nth-child(2) {
-  stroke-dasharray: 993px;
-  stroke-dashoffset: 993px;
+  stroke-dasharray: 1031.009033203125px;
+  stroke-dashoffset: 1031.009033203125px;
   animation: line-animate 2s ease forwards;
 }
 #logo path:nth-child(3) {
